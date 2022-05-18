@@ -8,12 +8,12 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.00
+      "price": 12000
     },
     {
       "id": 3,
       "name": "Samsung S20+",
-      "price": 5500.30
+      "price": 5500.3
     }
   ]
 }
