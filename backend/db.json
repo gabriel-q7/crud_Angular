@@ -7,8 +7,18 @@
     },
     {
       "name": "batata",
-      "price": "101",
+      "price": "11",
+      "id": 3
+    },
+    {
+      "name": "abajur",
+      "price": "222",
       "id": 4
+    },
+    {
+      "name": "relogio",
+      "price": "1234",
+      "id": 5
     }
   ]
 }
